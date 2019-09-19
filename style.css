@@ -1,0 +1,65 @@
+.testb {
+	font-family:"Century Gothic";
+	font-size: 24px;
+	font-style: normal;
+	line-height: normal;
+	color: #FFF;
+	font-weight: normal;
+}  
+
+.c:link {
+	color: #FFF;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-family:"Century Gothic";
+}
+    
+.c:visited {
+	color: #FFF;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-family:"Century Gothic";
+}
+.c:hover {
+	color: #3C0;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-family:"Century Gothic";
+}
+.c:active {
+	color: #3C0;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-family:"Century Gothic";
+}
+
+p {
+	font-family:"Century Gothic";
+	font-size: 30px;
+	font-style: normal;
+	line-height: normal;
+	color: #FFF;
+	font-weight: normal;
+}  
+
+body {
+                margin-left: 0px;
+                margin-top: 0px;
+                margin-right: 0px;
+                margin-bottom: 0px;
+                background-image: url(image/bg.gif);
+                background-attachment: fixed;
+                background-position: center;
+                background-repeat: repeat;
+                background-position: 50% 0%;
+                background-color: black;
+                min-height: 100%;
+}
